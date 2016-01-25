@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 98892fe3b6b31f64c8822d2a0b7c3b9c
+timeCreated: 1444799571
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pig_cannon__sprite_sheet__by_chaoxys_3
+    21300002: pig_cannon__sprite_sheet__by_chaoxys_4
+    21300004: pig_cannon__sprite_sheet__by_chaoxys_5
+    21300006: pig_cannon__sprite_sheet__by_chaoxys_13
+    21300008: pig_cannon__sprite_sheet__by_chaoxys_14
+    21300010: pig_cannon__sprite_sheet__by_chaoxys_15
+    21300012: pig_cannon__sprite_sheet__by_chaoxys_16
+    21300014: pig_cannon__sprite_sheet__by_chaoxys_17
+    21300016: pig_cannon__sprite_sheet__by_chaoxys_18
+    21300018: pig_cannon__sprite_sheet__by_chaoxys_19
+    21300020: pig_cannon__sprite_sheet__by_chaoxys_20
+    21300022: pig_cannon__sprite_sheet__by_chaoxys_21
+    21300024: pig_cannon__sprite_sheet__by_chaoxys_22
+    21300026: pig_cannon__sprite_sheet__by_chaoxys_23
+    21300028: pig_cannon__sprite_sheet__by_chaoxys_24
+    21300030: pig_cannon__sprite_sheet__by_chaoxys_25
+    21300032: pig_cannon__sprite_sheet__by_chaoxys_26
+    21300034: pig_cannon__sprite_sheet__by_chaoxys_28
+    21300036: pig_cannon__sprite_sheet__by_chaoxys_36
+    21300038: pig_cannon__sprite_sheet__by_chaoxys_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pig_cannon__sprite_sheet__by_chaoxys_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 144
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 146
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 127
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 127
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 127
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 127
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 127
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 105
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 105
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 105
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 105
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 105
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 104
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_28
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 93
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 57
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pig_cannon__sprite_sheet__by_chaoxys_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
